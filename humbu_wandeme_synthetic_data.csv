@@ -1,0 +1,6 @@
+date,product,quantity,price,revenue,category
+2024-10-01,Maize,100,50,5000,Grains
+2024-10-02,Beans,80,30,2400,Legumes
+2024-10-03,Rice,120,40,4800,Grains
+2024-10-04,Wheat,90,45,4050,Grains
+2024-10-05,Sorghum,70,35,2450,Grains
